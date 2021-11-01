@@ -1,0 +1,16 @@
+C:\Users\Азалия\Desktop\Lesson01\Prog02_Max2\bin\Debug\net6.0\Prog02_Max2.exe
+C:\Users\Азалия\Desktop\Lesson01\Prog02_Max2\bin\Debug\net6.0\Prog02_Max2.deps.json
+C:\Users\Азалия\Desktop\Lesson01\Prog02_Max2\bin\Debug\net6.0\Prog02_Max2.runtimeconfig.json
+C:\Users\Азалия\Desktop\Lesson01\Prog02_Max2\bin\Debug\net6.0\Prog02_Max2.dll
+C:\Users\Азалия\Desktop\Lesson01\Prog02_Max2\bin\Debug\net6.0\ref\Prog02_Max2.dll
+C:\Users\Азалия\Desktop\Lesson01\Prog02_Max2\bin\Debug\net6.0\Prog02_Max2.pdb
+C:\Users\Азалия\Desktop\Lesson01\Prog02_Max2\obj\Debug\net6.0\Prog02_Max2.GlobalUsings.g.cs
+C:\Users\Азалия\Desktop\Lesson01\Prog02_Max2\obj\Debug\net6.0\Prog02_Max2.csproj.AssemblyReference.cache
+C:\Users\Азалия\Desktop\Lesson01\Prog02_Max2\obj\Debug\net6.0\Prog02_Max2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Азалия\Desktop\Lesson01\Prog02_Max2\obj\Debug\net6.0\Prog02_Max2.AssemblyInfoInputs.cache
+C:\Users\Азалия\Desktop\Lesson01\Prog02_Max2\obj\Debug\net6.0\Prog02_Max2.AssemblyInfo.cs
+C:\Users\Азалия\Desktop\Lesson01\Prog02_Max2\obj\Debug\net6.0\Prog02_Max2.csproj.CoreCompileInputs.cache
+C:\Users\Азалия\Desktop\Lesson01\Prog02_Max2\obj\Debug\net6.0\Prog02_Max2.dll
+C:\Users\Азалия\Desktop\Lesson01\Prog02_Max2\obj\Debug\net6.0\ref\Prog02_Max2.dll
+C:\Users\Азалия\Desktop\Lesson01\Prog02_Max2\obj\Debug\net6.0\Prog02_Max2.pdb
+C:\Users\Азалия\Desktop\Lesson01\Prog02_Max2\obj\Debug\net6.0\Prog02_Max2.genruntimeconfig.cache

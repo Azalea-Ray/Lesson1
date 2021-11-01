@@ -1,0 +1,16 @@
+C:\Users\Азалия\Desktop\Lesson01\Prog01\bin\Debug\net6.0\Prog01.exe
+C:\Users\Азалия\Desktop\Lesson01\Prog01\bin\Debug\net6.0\Prog01.deps.json
+C:\Users\Азалия\Desktop\Lesson01\Prog01\bin\Debug\net6.0\Prog01.runtimeconfig.json
+C:\Users\Азалия\Desktop\Lesson01\Prog01\bin\Debug\net6.0\Prog01.dll
+C:\Users\Азалия\Desktop\Lesson01\Prog01\bin\Debug\net6.0\ref\Prog01.dll
+C:\Users\Азалия\Desktop\Lesson01\Prog01\bin\Debug\net6.0\Prog01.pdb
+C:\Users\Азалия\Desktop\Lesson01\Prog01\obj\Debug\net6.0\Prog01.GlobalUsings.g.cs
+C:\Users\Азалия\Desktop\Lesson01\Prog01\obj\Debug\net6.0\Prog01.csproj.AssemblyReference.cache
+C:\Users\Азалия\Desktop\Lesson01\Prog01\obj\Debug\net6.0\Prog01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Азалия\Desktop\Lesson01\Prog01\obj\Debug\net6.0\Prog01.AssemblyInfoInputs.cache
+C:\Users\Азалия\Desktop\Lesson01\Prog01\obj\Debug\net6.0\Prog01.AssemblyInfo.cs
+C:\Users\Азалия\Desktop\Lesson01\Prog01\obj\Debug\net6.0\Prog01.csproj.CoreCompileInputs.cache
+C:\Users\Азалия\Desktop\Lesson01\Prog01\obj\Debug\net6.0\Prog01.dll
+C:\Users\Азалия\Desktop\Lesson01\Prog01\obj\Debug\net6.0\ref\Prog01.dll
+C:\Users\Азалия\Desktop\Lesson01\Prog01\obj\Debug\net6.0\Prog01.pdb
+C:\Users\Азалия\Desktop\Lesson01\Prog01\obj\Debug\net6.0\Prog01.genruntimeconfig.cache
